@@ -21,4 +21,5 @@ void CalculateTaxPayable(const Container& data);
 */
 void CallParenOperator(const Container& data);
 
+
 #endif // FUNCTIONALITIES_H
